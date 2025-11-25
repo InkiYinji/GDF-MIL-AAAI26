@@ -100,7 +100,7 @@ python main.py
 If GDF-MIL is helpful to your research, please cite it.
 
 ```bibtex
-@inproceedings{Zhang2024gdfmil,
+@inproceedings{Zhang2026gdfmil,
   title={Rethinking multi-instance learning through graph-driven fusion: {A} dual-path approach to adaptive representation},
   author={Zhang, Yu-Xuan and Zhou, Zhengchun and Liu, Weisha and Zhang, Mingxing},
   booktitle={{AAAI}},
